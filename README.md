@@ -1,8 +1,5 @@
 <div>
     <div align=center>
-        <img src="https://octodex.github.com/images/Fintechtocat.png" alt="GitHub Octocat" height="200">
-    </div>
-    <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?font=Console&size=28&pause=1000&color=13F700&center=true&vCenter=true&random=false&width=435&lines=%C2%A1Hello+World!%2C+I'm+Uriel;Software+Engineering+student" alt="Text" />
     </div>
     <div align=left>
@@ -20,6 +17,9 @@
             <li>💻 <b>I’m currently open for</b>: A new job opportunity.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(🖥), Traveling(🌍), Videogames(🎮), and Music(🎶).</li>
         </ul>
+    </div>
+    <div align=center>
+        <img src="https://octodex.github.com/images/Fintechtocat.png" alt="GitHub Octocat" height="200">
     </div>
 
 Last edited on: 2024
