@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif" alt="GitHub Octocat" height="200">
+        <img src="https://octodex.github.com/images/Fintechtocat.png" alt="GitHub Octocat" height="200">
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?font=Console&size=28&pause=1000&color=13F700&center=true&vCenter=true&random=false&width=435&lines=%C2%A1Hello+World!%2C+I'm+Uriel;Software+Engineering+student" alt="Text" />
