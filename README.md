@@ -12,8 +12,7 @@
             </strong>
         </p>
         <ul>
-            <li>👨‍💻 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: Software and Computer Systems Engineering.</li>
+            <li>👨‍💻 <b>I’m currently learning</b>: Software and Computer Systems Engineering.</li>
             <li>💻 <b>I’m currently open for</b>: A new job opportunity.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(🖥), Traveling(🌍), Videogames(🎮), and Music(🎶).</li>
         </ul>
