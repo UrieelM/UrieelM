@@ -1,7 +1,5 @@
 <div>
-    <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00F706&center=true&vCenter=true&width=600&lines=Hello+World!%2C+I'm+Uriel;Software+%26+Computer+Systems+Engineer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
-    </div>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F706&center=true&vCenter=true&width=435&lines=Hello+World!%2C+I'm+Uriel;Software+%26+Computer+Systems+Engineer)](https://git.io/typing-svg)
     <div align=left>
         <br>
         <p>
